@@ -1,5 +1,5 @@
 # 🤖 AI-Powered Paraphrasing Tool
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammedhasif7127-png/ai-paraphrasing-tool/blob/main/AI_Paraphrasing_Tool.ipynb)
+
 > A transformer-based NLP tool that paraphrases text while preserving meaning, checking grammar/spelling/fluency, and evaluating output quality using BLEU, ROUGE, and semantic similarity scores.
 
 ---
